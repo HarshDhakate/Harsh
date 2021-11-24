@@ -23,6 +23,7 @@
 20. Media Query Css 
 
 
+
 --------------------------------------------------------------------*/
 /* ================== 01 body start ================== */
 body {
@@ -1309,6 +1310,12 @@ span.value a {
 /* End selfintro section */
 
 /*================== 05 End about section css ==================  */
+/*==================  Start skills section css ==================  */
+.port_skills_setions {
+    background: #f7f7f78f;
+    padding-bottom: 83px;
+}
+/*==================  End skills section css ==================  */
 
 /*================== 06 start education section css ==================  */
 .education_main_wrapper:after {
@@ -3305,7 +3312,7 @@ p.banner_pera {
 } */
 .port_banner_wrapper .banner_content {
     padding-left: 0;
-    padding-bottom: 150px;
+    padding-bottom: 265px;
     margin-top: -100px;
 }
 .bannner_leftpart h2.stranger {
@@ -3368,7 +3375,7 @@ p.banner_pera {
 }
 .port_banner_wrapper .banner_content {
     padding-left: 0;
-    padding-bottom: 150px;
+    padding-bottom: 250px;
     margin-top: -100px;
 }
 .bannner_leftpart h2.stranger {
