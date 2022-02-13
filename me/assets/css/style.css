@@ -740,6 +740,10 @@ transform: translate(-50%,-50%);
 .social_list li a .nav_insta {
     color: #e4405f;
 }
+.social_list li a .nav_github {
+    color: #181516;
+}
+
 /* ---- End Social icon ---- */
 
 /*================== 03 End sidebar css ==================  */
@@ -1316,7 +1320,7 @@ span.value a {
 /*================== 05 End about section css ==================  */
 /*==================  Start skills section css ==================  */
 .port_skills_setions {
-    background: #f7f7f78f;
+    background: #f7f7f7;
     padding-bottom: 83px;
 }
 .skills_section .skills_professional{
@@ -3565,5 +3569,6 @@ p.banner_pera {
     margin-left: 15px;
 }
 
+}
 }
 /*  ================== 20 End media query css ==================  */
