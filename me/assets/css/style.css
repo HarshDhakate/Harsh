@@ -254,7 +254,7 @@ ul {
 	transition-delay: 0.2s;
 }
 .port_hadding_style_sec .port_head_wrapper {
-    font-size: 22px;
+    font-size: 32px;
     color: #556d91;
     font-weight: 700;
     position: relative;
@@ -267,7 +267,7 @@ ul {
     right: 0;
     bottom: 0;
     margin: auto;
-    width: 83px;
+    width: 100px;
     height: 2px;
     background: rgb(255, 196, 85);
 }
